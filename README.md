@@ -16,6 +16,13 @@ This data engineering project uses the Netflix Dataset to build a modern data pi
    - Azure Data Lake Gen2(Data Lake)
    - Azure DataBricks
 
+## Dataset Used
+1. Netflix_Cast
+2. Netflix_Category
+3. Netflix_Countries
+4. Netflix_Directors
+5. Netflix_Tiles
+
 ##  Project Snapshots
 ![Image](https://github.com/user-attachments/assets/50f04e09-9b6a-4e71-b656-4cc8f3e02b6b)
 
