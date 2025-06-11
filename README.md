@@ -50,6 +50,8 @@ This data engineering project uses the Netflix Dataset to build a modern data pi
 
 ![Image](https://github.com/user-attachments/assets/614da4ab-0f23-44f1-8cca-bf22a7877e2f)
 
+# After some Tranformation in silver, It moved to Gold container
+
 ![Image](https://github.com/user-attachments/assets/4544b4da-add5-4089-b067-007b81092f21)
 
 
