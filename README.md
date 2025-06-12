@@ -32,12 +32,12 @@ This data engineering project uses the Netflix Dataset to build a modern data pi
 
 ![Image](https://github.com/user-attachments/assets/284cd02c-f850-4797-8681-d95a8d8edd4f)
 
-![Image](https://github.com/user-attachments/assets/4e0757a2-e407-4257-bccc-ef8bff4ad9f9)
-
 # Spark Streaming(Auto Loader)
 ![Image](https://github.com/user-attachments/assets/2774886c-dab8-4d3c-8eca-e4f900ae23f7)
 
 ![Image](https://github.com/user-attachments/assets/ebdf11e2-bf8c-4bdb-97bc-26f0a614bcfd)
+
+![Image](https://github.com/user-attachments/assets/4e0757a2-e407-4257-bccc-ef8bff4ad9f9)
 
 # Creating Workflow In databricks(Movement of tranformed data from Bronze to Silver)
 ![Image](https://github.com/user-attachments/assets/8e947677-1732-4b10-987b-e1ccc85504b7)
