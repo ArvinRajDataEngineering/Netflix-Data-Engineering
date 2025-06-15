@@ -5,7 +5,7 @@ Netflix Data Engineering Project Using Databricks and ADF
 This data engineering project uses the Netflix Dataset to build a modern data pipeline leveraging DataBricks, Azure Data Factory, Azure Synapse Analytics. It demonstrates data ingestion, transformation, and analysis workflows in a scalable cloud environment.
 
 ## Medallion architecture
-![Image](https://github.com/user-attachments/assets/480087e2-8baf-4780-8578-b74f1944f877)
+![Image](https://github.com/user-attachments/assets/c2acbaf5-3e68-4807-8e97-03ea9f392511)
 
 ## Technology Used
 1. Programming Language - Python
